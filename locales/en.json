@@ -1,0 +1,16 @@
+{
+  "title": "Mozc CLI",
+  "restart_start": "[{os}] Restarting Mozc...",
+  "killed": "  Killed: {proc}",
+  "stopped": "  Stopped: {service}",
+  "started": "  Started: {service}",
+  "win_restart_note": "Windows: Please toggle the IME off/on from the taskbar, or re-login if necessary.",
+  "mac_restart_note": "macOS: Restart completed. Switch input mode to verify.",
+  "unsupported_os": "Unsupported OS.",
+  "restart_complete": "✓ Mozc restart completed.",
+  "command_restart": "restart",
+  "command_status": "status",
+  "status_not_implemented": "Status command is not implemented yet.",
+  "error": "Error: {msg}",
+  "no_services_found": "No Mozc services found."
+}

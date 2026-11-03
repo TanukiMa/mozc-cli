@@ -1,0 +1,16 @@
+{
+  "title": "Mozc CLI",
+  "restart_start": "[{os}] Mozc 再起動中...",
+  "killed": "  Killed: {proc}",
+  "stopped": "  Stopped: {service}",
+  "started": "  Started: {service}",
+  "win_restart_note": "Windows: タスクバーからIMEを一旦OFF→ONするか、必要に応じて再ログインしてください。",
+  "mac_restart_note": "macOS: 再起動完了。入力モードを切り替えて確認してください。",
+  "unsupported_os": "未対応OSです。",
+  "restart_complete": "✓ Mozc の再起動が完了しました。",
+  "command_restart": "再起動",
+  "command_status": "状態確認",
+  "status_not_implemented": "status コマンドはまだ実装されていません。",
+  "error": "エラー: {msg}",
+  "no_services_found": "Mozc のサービスが見つかりませんでした。"
+}
